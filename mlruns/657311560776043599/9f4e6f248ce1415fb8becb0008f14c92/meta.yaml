@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ashik/codes/mlflow_basic_project/mlruns/657311560776043599/9f4e6f248ce1415fb8becb0008f14c92/artifacts
+end_time: 1754900963896
+entry_point_name: ''
+experiment_id: '657311560776043599'
+lifecycle_stage: active
+run_id: 9f4e6f248ce1415fb8becb0008f14c92
+run_name: entertaining-cow-306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754900961550
+status: 3
+tags: []
+user_id: ashik

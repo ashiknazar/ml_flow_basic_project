@@ -1,0 +1,6 @@
+artifact_location: file:///home/ashik/codes/mlflow_basic_project/mlruns/657311560776043599
+creation_time: 1754900961504
+experiment_id: '657311560776043599'
+last_update_time: 1754900961504
+lifecycle_stage: active
+name: iris_random_forest
